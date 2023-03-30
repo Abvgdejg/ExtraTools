@@ -5,13 +5,13 @@ with open("README.md") as file:
 
 setuptools.setup(
     name="ExtraTools",
-    version="0.1",
-    author="Your Name",
-    author_email="your_email",
-    description="This is a test package.",
+    version="1.0",
+    author="",
+    author_email="",
+    description="Extra Tools",
     long_description=read_me_description,
     long_description_content_type="text/markdown",
-    url="package_github_page",
+    url="https://github.com/Abvgdejg/ExtraTools",
     packages=['ExtraTools'],
     classifiers=[
         "Programming Language :: Python :: 3",
